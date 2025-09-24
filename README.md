@@ -81,8 +81,8 @@ This project demonstrates:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sentiment-analysis-ml.git
-cd sentiment-analysis-ml
+git clone https://github.com/Haile-12/sentiment-analysis-ml-project.git
+cd sentiment-analysis-ml-project
 
 # Create a virtual environment
 python -m venv venv
